@@ -1,5 +1,3 @@
-# python-project-01
-
 # Background
 This is my first project with the NYC Datascience Academy. 
 
