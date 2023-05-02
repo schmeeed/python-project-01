@@ -1,6 +1,3 @@
-# Apple Finder
-.DS_Store
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,6 +5,89 @@ __pycache__/
 
 # C extensions
 *.so
+
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.Rhistory
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+# DATA FILES 
+*.csv
+*.json
+
+# Microsoft Office Files #
+*.tmp
+
+# Word 
+*.doc
+*.docx
+
+# Word Temporary
+~$*.doc*
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel
+*.xls
+*.xslx
+
+# Excel temporary
+~$*.xls*
+# Excel Backup File
+*.xlk
+
+# Powerpoint/googleslides
+*.gslides
+*.pptx
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Ignore common image file types
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.ico
+
 
 # Distribution / packaging
 .Python
@@ -148,6 +228,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# folder that isn't to be tracked
+not_on_github/
+
 
 # pytype static type analyzer
 .pytype/
