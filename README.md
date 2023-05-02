@@ -1,6 +1,6 @@
 [Presentation Recording](https://youtu.be/fg98kuabzs8?t=10506)
 
-[Blog Post]https://nycdatascience.com/blog/student-works/the-data-behind-ev-driving/)
+[Blog Post](https://nycdatascience.com/blog/student-works/the-data-behind-ev-driving/)
 
 # Background
 This is my first project with the NYC Datascience Academy. 
