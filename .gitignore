@@ -87,6 +87,7 @@ Backup of *.doc*
 *.bmp
 *.svg
 *.ico
+*.pdf
 
 
 # Distribution / packaging
