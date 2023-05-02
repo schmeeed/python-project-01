@@ -65,7 +65,7 @@ Backup of *.doc*
 
 # Excel
 *.xls
-*.xslx
+*.xlsx
 
 # Excel temporary
 ~$*.xls*
